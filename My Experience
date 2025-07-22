@@ -1,0 +1,23 @@
+My Experience with Creating and Playing "Color Match Memory"
+
+Creating Color Match Memory was an exciting and educational experience for me. It was my first hands-on project using Unity Hub, and through this game, I learned how to build a complete and interactive game from scratch.
+
+From designing colorful buttons and adding sound effects to managing scores and game over screens, each step was a new challenge. One of the most satisfying parts was seeing the game respond correctly when a player repeated the color pattern—it felt like I was really bringing my ideas to life.
+
+I also learned how to:
+
+Use Canvas and UI elements like panels, buttons, and text
+
+Implement background music and sound effects
+
+Set up game logic using C# scripts
+
+Display score and high score on the game over screen
+
+Handle UI resizing, button actions, and scene design
+
+Although I faced some bugs—like the restart button and high score text not updating properly—I learned how to troubleshoot and fix issues by checking the Unity Inspector, scripting errors, and object references.
+
+Playing the game is really fun and surprisingly addictive! Every time the pattern gets longer, it pushes me to focus and test my memory. It’s a game I can see others enjoying casually in their free time.
+
+Overall, this project helped me understand Unity better, improved my logic-building skills, and boosted my confidence in game development.
